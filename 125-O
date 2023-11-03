@@ -1,0 +1,5 @@
+What are the average time complexities of those operations on an AVL Tree (one answer per line):
+
+1. Inserting the value n
+2. Removing the node with the value n
+3. Searching for a node in an AVL tree of size n

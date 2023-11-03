@@ -1,0 +1,5 @@
+What are the average time complexities of those operations on a Binary Heap (one answer per line):
+
+1. Inserting the value n
+2. Extracting the root node
+3. Searching for a node in a binary heap of size n
